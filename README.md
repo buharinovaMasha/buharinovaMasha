@@ -1,40 +1,45 @@
-Maria Bukharinova
--
+# Мария Бухаринова
 
-Junior Business / System Analyst
+**Junior Business / System Analyst**
 
-Currently studying at School 21 (Sber) and developing practical skills in:
+Начинающий бизнес / системный аналитик.
+Прохожу обучение в **Школе 21 (Сбер)** и развиваю практические навыки в области:
 
-- business analysis
-- system analysis
--process modeling
-- data analysis
-- requirements management
+* бизнес-анализа
+* системного анализа
+* моделирования процессов
+* работы с данными
+* управления требованиями
 
-Tech & Analysis Skills
--
-- BPMN
-- SQL (basic)
-- XML
-- API integration
-- Git / GitHub
-- Excel
-- Process analysis
-- Requirements analysis
-- Data structuring
-- Low-code systems
+---
 
-Education
--
-Perm National Research Polytechnic University
-Information Systems and Technologies
+## Навыки
 
-School 21 (Sber)
-Business / System Analysis in IT
+* BPMN
+* SQL (базовый)
+* XML
+* API integration
+* Git / GitHub
+* Excel
+* Анализ бизнес-процессов
+* Анализ требований
+* Работа с данными
+* Low-code системы
 
-Current Focus
--
-Building portfolio projects
-Improving technical and analytical skills
-Learning system analysis tools and methodologies
-Developing GitHub portfolio
+---
+
+## Образование
+
+**ПНИПУ**
+Автоматизированные системы обработки информации и управления
+
+**Школа 21 (Сбер)**
+Бизнес / системная аналитика в IT
+
+---
+
+## Текущий фокус
+
+* Изучение инструментов системного анализа
+* Развитие технических навыков
+* Практика работы с реальными проектами
