@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Maria
 
-<!--
-**buharinovaMasha/buharinovaMasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Business / System Analyst from Perm, Russia.
 
-Here are some ideas to get you started:
+Currently studying at School 21 (Sber) and developing practical skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- business & system analysis
+- process modeling
+- data analysis
+- requirements gathering
+- Git & version control
+
+Skills
+- 
+-d
+
+*Experience*
+-
+- Business process analysis
+- Data structuring and validation
+- Reporting and dashboards
+- Working with internal systems and contractors
+- Low-code platform experience
+
+Education
+-
+Perm National Research Polytechnic University
+Information Systems and Technologies
