@@ -1,28 +1,40 @@
-Hi, I'm Maria
+Maria Bukharinova
+-
 
-Junior Business / System Analyst from Perm, Russia.
+Junior Business / System Analyst
 
 Currently studying at School 21 (Sber) and developing practical skills in:
 
-- business & system analysis
-- process modeling
+- business analysis
+- system analysis
+-process modeling
 - data analysis
-- requirements gathering
-- Git & version control
+- requirements management
 
-Skills
-- 
--d
-
-*Experience*
+Tech & Analysis Skills
 -
-- Business process analysis
-- Data structuring and validation
-- Reporting and dashboards
-- Working with internal systems and contractors
-- Low-code platform experience
+- BPMN
+- SQL (basic)
+- XML
+- API integration
+- Git / GitHub
+- Excel
+- Process analysis
+- Requirements analysis
+- Data structuring
+- Low-code systems
 
 Education
 -
 Perm National Research Polytechnic University
 Information Systems and Technologies
+
+School 21 (Sber)
+Business / System Analysis in IT
+
+Current Focus
+-
+Building portfolio projects
+Improving technical and analytical skills
+Learning system analysis tools and methodologies
+Developing GitHub portfolio
